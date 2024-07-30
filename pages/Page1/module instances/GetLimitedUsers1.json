@@ -1,0 +1,19 @@
+{
+  "gitSyncId": "66a94c2c004ae37b1e16c70f_190a36f6-e526-45f5-842c-55f208fec5df",
+  "id": "Page1_GetLimitedUsers1",
+  "moduleUUID": "03163510-6e1a-4f18-8923-99d231818963",
+  "packageUUID": "8f0ef562-b298-40d1-8c6c-2603d83ca6be",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "limit": "3"
+    },
+    "moduleInputs": {
+      "berfbclbnh": {}
+    },
+    "name": "GetLimitedUsers1",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}

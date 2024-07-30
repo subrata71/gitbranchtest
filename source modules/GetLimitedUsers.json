@@ -1,0 +1,7 @@
+{
+  "moduleName": "GetLimitedUsers",
+  "moduleUUID": "03163510-6e1a-4f18-8923-99d231818963",
+  "packageName": "InterModuleRefPkg",
+  "packageUUID": "8f0ef562-b298-40d1-8c6c-2603d83ca6be",
+  "version": "0.0.1"
+}
